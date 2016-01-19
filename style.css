@@ -1,6 +1,28 @@
-.cities {
-    background-color:black;
-    color:white;
+.text {
+    background-color:yellow;
+    color:black;
     margin:20px;
     padding:20px;
 } 
+
+.more{
+    background-color:yellow;
+    color:red;
+    margin:20px;
+    padding:20px;
+    font-size:20px;
+    text-align:center;
+} 
+
+.evenmore{
+    background-color:yellow;
+    color:blue;
+    margin:20px;
+    padding:20px;
+    font-size:40px;
+    text-align:left;
+} 
+
+#town{
+    background-color:yellow;
+}
